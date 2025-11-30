@@ -1,1 +1,1 @@
-🌐 (https://0xsn.cartmixbd.com/)0xSecurityNotes
+🌐 [0xSecurityNotes](https://0xsn.cartmixbd.com/)
