@@ -1,1 +1,1 @@
-🌐 [0xSecurityNotes](https://0xsn.cartmixbd.com/)
+🌐 [system and security-focused case studies](https://sec.marufrahman.dev)
